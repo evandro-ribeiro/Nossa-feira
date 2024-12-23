@@ -13,3 +13,6 @@ Projeto criado para simular um site de vendas para feirantes, possibilitando que
 Para baixar as dependências do projeto, utilize em seu terminal o comando `npm install`.
 Para rodar o projeto, utilize em seu terminal o comando `npm start`.
 Abra [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
+
+## Acesse rápido pelo link abaixo do projeto:
+https://nossa-feira.vercel.app/
